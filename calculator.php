@@ -11,7 +11,7 @@
  * @author Jagadees
  */
 class calculator {
-    //put your code here
+    //put your code heres
     /**
      * @assert (0, 0) == 0
      * @assert (0, 1) == 1
